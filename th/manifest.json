@@ -1,29 +1,19 @@
 {
   "setName": "Scarlet ex",
   "setID": "sv1S",
-  "setReleaseDate": "2023-01-20",
+  "setReleaseDate": "2023-02-24",
   "cards": [
-    {
-      "cardID": "089",
-      "cardName": "โดโดเกซัน",
-      "pokemonName": "Kingambit",
-      "pokedexNumber": 983,
-      "pokemonName_en": "Kingambit",
-      "cardIllustrator": "Shin Nagasawa",
-      "cardCameos": ["Pawniard", "Bisharp"],
-      "cardVariations": [{ "setID": "sv1S", "lang": "id", "cardID": "089" }],
-      "ThaiArtRares": true
-    },
-    {
-      "cardID": "090",
-      "cardName": "มุคคุรุ",
-      "pokemonName": "Starly",
-      "pokedexNumber": 396,
-      "pokemonName_en": "Starly",
-      "cardIllustrator": "saino misaki",
-      "cardCameos": [],
-      "cardVariations": [],
-      "ThaiArtRares": true
-    }
+    { "cardID": "079", "cardName": "โอลิวาโด", "pokemonName_en": "Dolliv", "rarity": "AR", "pokedexNumber": 929, "cardIllustrator": "Oswaldo KATO" },
+    { "cardID": "080", "cardName": "คาร์มาดูล", "pokemonName_en": "Armarouge", "rarity": "AR", "pokedexNumber": 936, "cardIllustrator": "nagimiso" },
+    { "cardID": "081", "cardName": "อุมิดิกดา", "pokemonName_en": "Wiglett", "rarity": "AR", "pokedexNumber": 960, "cardIllustrator": "You Iribi" },
+    { "cardID": "082", "cardName": "เฮย์ราช", "pokemonName_en": "Dondozo", "rarity": "AR", "pokedexNumber": 977, "cardIllustrator": "AKIRA EGAWA" },
+    { "cardID": "083", "cardName": "ราลทซ์", "pokemonName_en": "Ralts", "rarity": "AR", "pokedexNumber": 280, "cardIllustrator": "Jiro Sasumo" },
+    { "cardID": "084", "cardName": "เคอเรีย", "pokemonName_en": "Kirlia", "rarity": "AR", "pokedexNumber": 281, "cardIllustrator": "Jiro Sasumo" },
+    { "cardID": "085", "cardName": "ปาปิมอจจิ", "pokemonName_en": "Fidough", "rarity": "AR", "pokedexNumber": 926, "cardIllustrator": "Tika Matsuno" },
+    { "cardID": "086", "cardName": "ริโอลู", "pokemonName_en": "Riolu", "rarity": "AR", "pokedexNumber": 447, "cardIllustrator": "Nelnal" },
+    { "cardID": "087", "cardName": "เมกุโรกุ", "pokemonName_en": "Sandile", "rarity": "AR", "pokedexNumber": 551, "cardIllustrator": "Nurikabe" },
+    { "cardID": "088", "cardName": "กาเคกะนิ", "pokemonName_en": "Klawf", "rarity": "AR", "pokedexNumber": 950, "cardIllustrator": "Mina Nakai" },
+    { "cardID": "089", "cardName": "โดโดเกซัน", "pokemonName_en": "Kingambit", "rarity": "AR", "pokedexNumber": 983, "cardIllustrator": "Shin Nagasawa" },
+    { "cardID": "090", "cardName": "มุคคุรุ", "pokemonName_en": "Starly", "rarity": "AR", "pokedexNumber": 396, "cardIllustrator": "saino misaki" }
   ]
 }
